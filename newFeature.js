@@ -1,1 +1,1 @@
-let feature = "new1"
+let feature = "new2"
